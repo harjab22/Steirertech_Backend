@@ -1,4 +1,4 @@
-package at.htlkaindorf.steirertechbackend;
+package at.htlkaindorf.steirertechbackend.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
